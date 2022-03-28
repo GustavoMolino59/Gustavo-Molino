@@ -1,7 +1,7 @@
-Lab 02 - java-estruturas
+# Lab 02 - java-estruturas
 
 
 ## Notebook - lab02
 
-[Notebook](lab02/notebook/lab02-java-estruturas-ra247144.ipynb)
+[Notebook](notebook\lab02-java-estruturas-ra247144.ipynb)
 
